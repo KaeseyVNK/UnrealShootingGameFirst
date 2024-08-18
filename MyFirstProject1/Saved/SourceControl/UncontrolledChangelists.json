@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/Jog_Fwd_Rifle.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/Idle_Rifle_Hip.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/ShooterBlendSpace1D.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/ABP_Shooter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/ABP_Shooter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/Fire_Shotgun_Ironsights.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/Idle_Rifle_Hip.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/Jog_Fwd_Rifle.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/ShooterBlendSpace1D.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/UE5/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/Fire_Rifle_Ironsights.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/Idle_Rifle_Ironsights.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ThirdPerson/Input/Actions/IA_Aim.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/AO_Shooter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/AimOffset/AO_Shooter.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/AimOffset/Aim_Forward.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/AimOffset/Aim_UP.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/AimOffset/Aim_Down.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ThirdPerson/Input/Actions/IA_Fire.uasset",
+				"C:/Users/User/Documents/Unreal Projects/MyFirstProject1/Content/ShooterAnimation/Fire_Shotgun_Ironsights.uasset"
+			]
+		}
+	]
+}
