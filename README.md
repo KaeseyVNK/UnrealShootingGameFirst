@@ -1,4 +1,4 @@
-# Simple Team Shooter Game
+# Simple Team Shooter Game 
 
 ## Giới thiệu
 
@@ -42,7 +42,9 @@
 - **Team:**
   
   ![Team](Uploads/Team.png)
-## Credits
+## Người làm
 
 - **[Vo Trung Kien](https://github.com/KaeseyVNK)** - Fullstack
 
+##Nguồn học tập 
+ - https://youtu.be/whHWEObyIbQ?si=2G_HWxAHwdaBqsE1
