@@ -14,8 +14,6 @@
 
 - **Môi trường chiến đấu chi tiết**: Các bản đồ được thiết kế chi tiết với hiệu ứng ánh sáng và đồ họa đẹp mắt nhờ sức mạnh của Unreal Engine 5.
 
-- **Chế độ chơi nhiều người**: Hỗ trợ chế độ chơi trực tuyến với nhiều người chơi cùng lúc, giúp tăng tính tương tác và cạnh tranh giữa các đội.
-
 ## Yêu cầu hệ thống
 
 - **Hệ điều hành**: Windows 10 (64-bit) hoặc cao hơn
@@ -30,7 +28,6 @@
 - Di chuyển: Sử dụng các phím W, A, S, D để điều khiển nhân vật di chuyển.
 - Bắn: Nhấn chuột trái để bắn, chuột phải để ngắm.
 - Chuyển vũ khí: Sử dụng phím số (1, 2, 3,...) để thay đổi vũ khí.
-- Chiến thuật: Hợp tác với đồng đội để kiểm soát khu vực và tiêu diệt kẻ thù.
 
 ## Hình Ảnh
 - **HUB:**
